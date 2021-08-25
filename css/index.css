@@ -141,6 +141,7 @@ body {
 
 .form-control label {
   font: var(--button);
+  color: white;
 }
 
 .form-control input,
